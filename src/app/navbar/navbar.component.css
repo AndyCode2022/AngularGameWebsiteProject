@@ -1,0 +1,11 @@
+ul {
+    background: fixed;
+    background-image: linear-gradient(green, black);
+    border-radius: 5px;
+}
+
+li {
+    color: aliceblue;
+    list-style-type: none;
+    text-align: center;
+}
