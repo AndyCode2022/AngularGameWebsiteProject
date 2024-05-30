@@ -7,6 +7,4 @@ import { Component } from '@angular/core';
   templateUrl: './collaborate.component.html',
   styleUrl: './collaborate.component.css'
 })
-export class CollaborateComponent {
-
-}
+export class CollaborateComponent {}
